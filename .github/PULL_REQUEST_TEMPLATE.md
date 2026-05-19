@@ -1,3 +1,11 @@
+---
+name: PR Template
+about: 비전 뿌셔의 피알 템플릿입니다.
+title: "[태그(소문자)/#이슈번호] PR 제목"
+labels: ''
+assignees: ''
+---
+
 ## 🔗 Related Issue
 <!-- 해결한 이슈 번호를 작성하고 이슈가 해결되었다면 해결 여부에 체크해주세요! (Ex. #4) -->
 - Connected: #이슈번호
