@@ -5,7 +5,7 @@
 > 가상의 3D 생명체와 교감하며 정서적 안정감을 제공하는 visionOS 앱
 > A visionOS app for emotional comfort through interactions with a virtual 3D creature.
 
----
+--- 
 
 ## 🗂 목차
 - [소개](#소개)
@@ -31,7 +31,7 @@
 
 ## 📆 프로젝트 기간
 - 전체 기간: `2026.05.11 - YYYY.MM.DD`
-- 개발 기간: `2026.05.20 - YYYY.MM.DD`
+- 개발 기간: `2026.05.21 - YYYY.MM.DD`
 
 
 ## 🛠 기술 스택
